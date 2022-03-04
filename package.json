@@ -1,0 +1,17 @@
+{
+  "name": "04-tareas-hacer",
+  "version": "0.0.1",
+  "description": "Esta es una aplicacion de tareas profecional, hecha en NOde js. y se ejecuta en consola ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tareas": " node app"
+  },
+  "author": "Luis Vina",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "uuid": "^8.3.2"
+  }
+}
